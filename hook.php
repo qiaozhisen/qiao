@@ -1,2 +1,2 @@
 <?php
-	echo 'hellow bob';
+	echo exec('whoami');
